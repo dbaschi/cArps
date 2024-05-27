@@ -1,4 +1,4 @@
-## CARPS
+## CARPS - Control Arps  
 
 **PROJECT AIM** 
    
